@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 ---
 
 I'm Dinara and my interests include deep learning, computer vision, and neuroscience. 
@@ -18,3 +18,4 @@ I have discovered neuroscience a couple of months ago, and it got me hooked! Cur
 - 🏖️ **Live**: I live in a sunny city of Batumi less than 100m from the beach and a beautiful 7km seafront. 
 
 Batumi is a unique city in Georgia. Even though it is pretty small, it has everything to make a person happy: sea, mountains, beautiful nature, and a small number of people. 
+ -->
